@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>TestTheme</key>
+	<key>KJCTheme</key>
 	<string>com.toyopagroup.picaboo</string>    <!--Your Theme Name -->
 	
 	<key>CalendarIconDateSettings</key>  <!--Calendar Icon Settings -->
@@ -32,7 +32,7 @@
 		<integer>3</integer>
 	</dict>
 	<key>IB-MaskIcons</key> <!--Mask Icons True / or False -->
-	<true/>
+	<false/>
 </dict>
 </plist>
 
