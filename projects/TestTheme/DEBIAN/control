@@ -1,0 +1,8 @@
+Package: com.toyopagroup.picaboo
+Name: KJC Theme
+Version 4.2.0
+Architecture: iphoneos-arm
+Description: KJC We out here
+Maintainer: KJC (KMG) <scooters@null.net>
+Author: KJC (KMG) <scooters@null.net>
+Section: Themes (Springboard)
