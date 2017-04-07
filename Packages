@@ -1,8 +1,14 @@
-Package: KJCTheme
+Package: com.kmg.kjc
 Version: 6.6.6
-Architecture: iphones-arm
+Architecture: iphoneos-arm
 Maintainer: KJC (KMG) <scooters@null.net>
+Filename: ./debs/com.kmg.kjc_6.6.6_iphoneos-arm.deb
+Size: 24520
+MD5sum: 0844e5bc7c30d85c7dafc4888b9ab84d
+SHA1: 18bed80aec192a8190e59da0c489a15f44e35e9e
+SHA256: f91f47e2b9a96495663ddf69d662809be8236006a70827e2c83a2e830033ca9e
+Section: Themes (Springboard)
+Description: KJC, We out here on your iPhone.
 Author: KJC (KMG) <scooters@null.net>
-Section: Themes
-Description: KJC DONT FUCK W FAKES
 Name: KJCTheme
+

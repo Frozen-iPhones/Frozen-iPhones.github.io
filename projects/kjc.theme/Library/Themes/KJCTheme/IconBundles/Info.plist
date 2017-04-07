@@ -2,8 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>KJCTheme</key>
-	<string>KJCTheme</string>    <!--Your Theme Name -->
+	<key>com.kmg.kjc</key>
+	<string>KJC Theme</string>    <!--Your Theme Name -->
 	
 	<key>CalendarIconDateSettings</key>  <!--Calendar Icon Settings -->
 	<dict>
