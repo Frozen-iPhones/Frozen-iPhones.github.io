@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>KJCTheme</key>
-	<string>com.toyopagroup.picaboo</string>    <!--Your Theme Name -->
+	<string>KJCTheme</string>    <!--Your Theme Name -->
 	
 	<key>CalendarIconDateSettings</key>  <!--Calendar Icon Settings -->
 	<dict>
