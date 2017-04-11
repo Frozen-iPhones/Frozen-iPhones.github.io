@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>com.kmg.kjc</key>
-	<string>KJC Theme</string>    <!--Your Theme Name -->
+	<string>KJCTheme</string>    <!--Your Theme Name -->
 	
 	<key>CalendarIconDateSettings</key>  <!--Calendar Icon Settings -->
 	<dict>

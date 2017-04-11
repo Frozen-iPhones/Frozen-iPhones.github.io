@@ -3,10 +3,10 @@ Version: 6.9
 Architecture: iphoneos-arm
 Maintainer: KJC (KMG) <scooters@null.net>
 Filename: ./debs/com.kmg.kjc_6.9_iphoneos-arm.deb
-Size: 22474
-MD5sum: 191aec67a17c337030b5c47c65a3a8a8
-SHA1: 71cca10fc08299c1707c354de3c6f25a510a420d
-SHA256: b7e00877c4e0259572891501680a4dac87e0c13363fd3ea51d89abc098024802
+Size: 22470
+MD5sum: 79792ce9e38e7fceff08321c036ca0c3
+SHA1: c7b5bcfc594b34084991bd1fed691e045ef26a7d
+SHA256: a3c8d0712d20a1a69293fea47f020591fdb58d83ce1e8ccf9c58a7c8be8c6069
 Section: Themes (Springboard)
 Description: KJC IS OUT HERE ON YA IPHONE, RIP BIG BOSS NIGGA.
 Author: KJC (KMG) <scooters@null.net>
